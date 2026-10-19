@@ -1,0 +1,3 @@
+Experiment Observation:
+When Expanded was removed from one StatBox, the boxes no longer shared the screen width equally. The StatBox without Expanded shrank to fit only its content, while the remaining Expanded boxes stretched to fill the rest of the available space.
+Reason: Expanded forces a child widget to fill the available space in a Row or Column. Without it, the widget takes up only its natural size.
