@@ -66,7 +66,7 @@ import 'activity5_theme_components.dart' as activity;
 
 ## Submission Requirements
 
-1. **ZIP file:** `SECTION_LASTNAME_FIRSTNAME.zip` (e.g., `ILGX3_CRASCO_ANDYMARK.zip`)
+1. **ZIP file:** `SECTION_LASTNAME_FIRSTNAME.zip` (e.g., `ILGX3_DOTILLOS_ASHLEE.zip`)
 2. **Contents:** `lib/`, `pubspec.yaml`, `screenshots/` (7 PNGs), `ANSWERS.md`
 3. **GitHub:** Push to a repository named `flutter_basics_lab`
 4. **Do NOT include:** `build/` folder
