@@ -1,7 +1,7 @@
 # Flutter Basics Lab — IT 120 Integrative Programming and Technologies 2
 
-**Student:** Andy Mark L. Crasco  
-**Section:** ILGX3_CRASCO_ANDYMARK  
+**Student:** Ashlee R. Dotillos 
+**Section:** ILGX3_DOTILLOS_ASHLEE
 **Course:** IT 120 Integrative Programming and Technologies 2 (Weeks 10–11)  
 **Lab:** Flutter Architecture, Widgets and Basic UI
 
