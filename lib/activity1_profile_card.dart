@@ -45,7 +45,7 @@ class ProfileCard extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Andy Mark L. Crasco', // <-- change to your full name
+              'Ashlee R. Dotillos', // <-- change to your full name
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 4),
@@ -59,7 +59,7 @@ class ProfileCard extends StatelessWidget {
               children: [
                 Icon(Icons.email, size: 20),
                 SizedBox(width: 8),
-                Text('andymark.crasco@csucc.edu.ph'), // <-- change to your email
+                Text('ashlee.dotillos@csucc.edu.ph'), // <-- change to your email
               ],
             ),
             const SizedBox(height: 8),
@@ -68,7 +68,7 @@ class ProfileCard extends StatelessWidget {
               children: [
                 Icon(Icons.phone, size: 20),
                 SizedBox(width: 8),
-                Text('0946-763-9907'), // <-- change to your contact number
+                Text('09531020059'), // <-- change to your contact number
               ],
             ),
           ],
